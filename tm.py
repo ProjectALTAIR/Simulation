@@ -19,4 +19,4 @@ to the associated object variables for previous states, and the new n+1 to be th
 state.
 """
     def update(self,state,action,environment):
-        return 
+        return state
