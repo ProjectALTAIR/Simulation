@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <NetworkLink>
+    <name>Loads flightpath.kml</name>
+    <Link>
+      <href>file:///E:\flightpath.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>0.1</refreshInterval>
+    </Link>
+  </NetworkLink>
+</kml>
