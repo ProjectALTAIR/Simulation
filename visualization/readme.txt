@@ -10,7 +10,7 @@ https://www.google.com/earth/
 ========================================
 3) Load flightpath.kml and then refresh.kml in Google Earth.
 ========================================
-4) Done. Any changes to flightpath.kml will by dynamically updated in Google Earth.
+4) Done. Any changes to flightpath.kml will be dynamically updated in Google Earth.
 ========================================
 
 To do:
